@@ -1,0 +1,6 @@
+name: NovaWebsitePlugin
+version: 1.0.0
+main: com.dark.novawebsite.NovaWebsitePlugin
+api-version: '26.1'
+author: Dark
+description: Hosts a live website showing Minecraft chat and online players.

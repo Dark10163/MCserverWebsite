@@ -1,0 +1,12 @@
+# The HTTP website port. Open this port in your hosting panel/firewall.
+port: 31412
+
+# Change this to your Discord invite link.
+discord-url: "https://discord.gg/5Dcnkyhfp6"
+
+# Website title and server display name.
+website-title: "AltarFall SMP"
+server-name: "AltarFall SMP - An altar SMP server"
+
+# Maximum number of recent chat messages shown on the website.
+max-chat-messages: 60
